@@ -14,17 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub followers](https://img.shields.io/github/followers/jamisonmmartins?label=Seguir&style=social)](https://github.com/jamisonmmartins) 
+[![GitHub followers](https://img.shields.io/github/followers/jamisonmmartins?label=Seguir&style=social)](https://github.com/jamisonmmartins)
 
-# Jamison de Mendonça Martins
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin/)
+[![Discord](https://img.shields.io/badge/Discord-blueviolet?style=flat&logo=discord&logoColor=white)](https://discord.gg/@jamisonmmartins)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero-whatsapp/)
+
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/jamisonmmartins/)
 [![Email](https://img.shields.io/badge/Email-red)](mailto:eu@jamison.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen)](https://api.whatsapp.com/send?phone=+5532999827286&text=Fala%20dev!!!)
 -->
+# Jamison de Mendonça Martins
 
-Olá! 👋 
-Me chamo Jamison, tô sempre aprendendo sobre desenvolvimento web front-end. Aqui no GitHub, compartilho meus projetos, meu progresso e o que tô aprendendo.
+Bem-vindo ao meu perfil! 👋 Sou um profissional de TI apaixonado por resolver problemas e criar experiências envolventes na web. Atualmente, estou focado em me especializar em desenvolvimento web front-end e estou ansioso para contribuir significativamente para projetos desafiadores.
 
 ## 💻 Tecnologias e Ferramentas
 
