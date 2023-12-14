@@ -83,7 +83,7 @@ Sinta-se à vontade para entrar em contato comigo para discussões, colaboraçõ
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martins7284@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamisonmmartins/)
-<!-->
+<!--
 [![Discord](https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/@jamisonmmartins)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero-whatsapp/)
 -->
