@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub followers](https://img.shields.io/github/followers/jamisonmmartins?label=Seguir&style=social)](https://github.com/jamisonmmartins)
-
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:seu@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin/)
 [![Discord](https://img.shields.io/badge/Discord-blueviolet?style=flat&logo=discord&logoColor=white)](https://discord.gg/@jamisonmmartins)
