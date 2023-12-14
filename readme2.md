@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil! 👋 Sou um profissional de TI apaixonado por resolver 
 
 ### Sobre Mim
 
-- 👨‍💻 **Profissão:** Assistente de TI atuo principalmente com Helpdesk e em transição para o desenvolvimento web front-end.
+- 👨‍💻 **Profissão:** Assistente de TI atuando principalmente com Helpdesk e em transição para o desenvolvimento web front-end.
 - 🌐 **Habilidades:** HTML, CSS, JavaScript (em aprendizado contínuo).
 - 🚀 **Projetos Pessoais:** Confira alguns dos meus projetos no meu [GitHub](https://github.com/jamisonmmartins).
 
