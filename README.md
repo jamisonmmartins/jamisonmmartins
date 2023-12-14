@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub followers](https://img.shields.io/github/followers/jamisonmmartins?label=Seguir&style=social)](https://github.com/jamisonmmartins)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martins7284@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamisonmmartins/)
-<!-->
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:martins7284@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamisonmmartins/)
+<!--
 [![Discord](https://img.shields.io/badge/Discord-blueviolet?style=flat&logo=discord&logoColor=white)](https://discord.gg/@jamisonmmartins)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero-whatsapp/)
 -->
