@@ -15,16 +15,13 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub followers](https://img.shields.io/github/followers/jamisonmmartins?label=Seguir&style=social)](https://github.com/jamisonmmartins)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martins7284@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamisonmmartins/)
+<!-->
 [![Discord](https://img.shields.io/badge/Discord-blueviolet?style=flat&logo=discord&logoColor=white)](https://discord.gg/@jamisonmmartins)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero-whatsapp/)
-
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/jamisonmmartins/)
-[![Email](https://img.shields.io/badge/Email-red)](mailto:eu@jamison.com.br)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen)](https://api.whatsapp.com/send?phone=+5532999827286&text=Fala%20dev!!!)
 -->
+
 # Jamison de Mendonça Martins
 
 Bem-vindo ao meu perfil! 👋 Sou um profissional de TI apaixonado por resolver problemas e criar experiências envolventes na web. Atualmente, estou focado em me especializar em desenvolvimento web front-end e estou ansioso para contribuir significativamente para projetos desafiadores.
@@ -84,10 +81,12 @@ Se você é um desenvolvedor experiente, adoraria receber feedback em meus proje
 
 Sinta-se à vontade para entrar em contato comigo para discussões, colaborações ou apenas para um bate-papo amigável:
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martins7284@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamisonmmartins/)
+<!-->
 [![Discord](https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/@jamisonmmartins)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero-whatsapp/)
+-->
 
 ## 😄 Obrigado por Visitar!
 
