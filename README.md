@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 readme em construção
+<br>
 
 <!--
 **jamisonmmartins/jamisonmmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,25 +16,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
-
-recomendação chat GPT
+-->
 
 # Jamison de Mendonça Martins
 
 [![GitHub followers](https://img.shields.io/github/followers/jamisonmmartins?label=Seguir&style=social)](https://github.com/jamisonmmartins)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/jamisonmmartins/)
 [![Email](https://img.shields.io/badge/Email-Send%20a%20Message-red)](mailto:eu@jamison.com.br)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-brightgreen)](link para o seu perfil do WhatsApp)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-brightgreen)](https://api.whatsapp.com/send?phone=+5532999827286&text=Fala%20dev!!!)
 
 Olá! 👋 
 Me chamo Jamison, tô sempre aprendendo sobre desenvolvimento web front-end. Aqui no GitHub, compartilho meus projetos, meu progresso e o que tô aprendendo.
 
 ## 💻 Tecnologias e Ferramentas
 
-- HTML5, CSS3, JavaScript
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 ## 🌱 Estou Aprendendo
 
@@ -48,8 +47,21 @@ Estou sempre aberto a sugestões e recursos adicionais sobre esses tópicos. Se 
 
 ## 🚀 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamisonmmartins&repo=numero-secreto)]([link-para-o-projeto-1](https://github.com/jamisonmmartins/numero-secreto))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamisonmmartins&repo=nome-do-projeto-2)](link-para-o-projeto-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamisonmmartins&repo=space-cream)](https://github.com/jamisonmmartins/space-cream)
+
+
+
+## 🚀 Projetos em Destaque 2222
+
+[![Projeto em Destaque 1](https://readme-card-generator.vercel.app/api/project_card?title=Projeto%20em%20Destaque%201&description=Uma%20breve%20descri%C3%A7%C3%A3o%20do%20projeto.&image=link-para-imagem-projeto-1&link=link-para-projeto-1)](link-para-projeto-1)
+
+[![Projeto em Destaque 2](https://readme-card-generator.vercel.app/api/project_card?title=Projeto%20em%20Destaque%202&description=Outra%20breve%20descri%C3%A7%C3%A3o%20interessante.&image=link-para-imagem-projeto-2&link=link-para-projeto-2)](link-para-projeto-2)
+
+
+
+## 🚀 Linguagens Mais Usadas
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jamisonmmartins&layout=compact&theme=radical)
 
 ## 👨‍💻 Objetivos Futuros
 
@@ -67,9 +79,10 @@ Estou entusiasmado com meu progresso até agora e tenho planos ambiciosos para o
 
 Estou animado para ver como esses objetivos se desdobram e para continuar aprendendo e crescendo como desenvolvedor web. Se você tem sugestões ou conselhos sobre esses objetivos, ficarei muito feliz em ouvir!
 
+<!--
 ## 📚 Recursos Recomendados
-
 Compartilhe recursos que você achou úteis em sua jornada de aprendizado.
+-->
 
 ## 🤝 Como Contribuir
 
@@ -79,10 +92,10 @@ Se você é um desenvolvedor experiente, adoraria receber feedback em meus proje
 
 Sinta-se à vontade para entrar em contato comigo para discussões, colaborações ou apenas para um bate-papo amigável:
 
-- **Email:** [eu@jamison.com.br](mailto:seu@email.com)
-- **LinkedIn:** [Jamison Martins](https://linkedin.com/in/jamisonmmartins)
-- **WhatsApp:** [Seu Número](link para o seu perfil do WhatsApp)
-
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero-whatsapp/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin/)
+[![Discord](https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/@jamisonmmartins)
 
 ## 😄 Obrigado por Visitar!
 
