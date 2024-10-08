@@ -1,0 +1,20 @@
+footer {
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+  border-top:1px solid #e4efe9 ;
+}
+
+footer p {
+  text-align: right;
+}
+
+footer ul {
+  list-style-type: none;
+}
+
+.footer__link-redes {
+  display: flex;
+  justify-content: end;
+  align-items: baseline;
+  gap: min(1rem, 1vw);
+}

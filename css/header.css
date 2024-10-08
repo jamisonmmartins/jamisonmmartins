@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-between;
+  align-items: center;
+  
+  padding: 1rem 0;
+
+  color: #537895;
+}
+
+span.logo {
+  font-family: monospace;
+  font-size: clamp(1.25rem, 7vw, 2rem);
+}
+
+nav {
+  font-size: clamp(1.75rem, 8vw, 3rem);
+  font-weight: 900;
+
+}

@@ -1,0 +1,53 @@
+main {
+  padding: 0.5rem 0;
+}
+
+main > section {
+  display: flex;
+  flex-direction: column;
+  row-gap: min(0.5rem, 4vw);
+}
+
+.main__img {
+  text-align: center;
+}
+
+.main__img img.jamison {
+  border-radius: 999px;
+  width: clamp(120px, 40vw ,200px);
+}
+
+.main__text {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  row-gap: 1rem;
+} 
+
+.main__text h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: auto;
+  width: 95%;
+  /* border: 1px solid orange; */
+  font-size: clamp(1.125rem, 5vw, 1.8rem );
+  color: #035968;
+}
+
+.main__text h1 span {
+  /* font-size: clamp(1.75rem, 11.5vw, 5rem ); */
+  font-size: clamp(1.75rem, 10vw, 3rem);
+  color: #e4efe9;
+  text-shadow: 1px 1px 10px #03596891;
+}
+
+.main__text h1 strong{
+  color: #035968;
+  background-color: #ffffff5e;
+  text-shadow: none;
+  line-height: 145%;
+}
+
+.main__text p {
+  font-size: clamp(1rem, 5vw, 1.25rem );
+  font-weight: 500;
+}
