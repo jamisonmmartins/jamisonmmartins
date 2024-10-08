@@ -45,6 +45,7 @@ Estou sempre aberto a sugestões e recursos adicionais sobre esses tópicos. Se 
 
 ## 🚀 Projetos em Destaque
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamisonmmartins&repo=jamisonmmartins&show_owner=true)](https://github.com/jamisonmmartins/jamisonmmartins)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamisonmmartins&repo=numero-secreto&show_owner=true)](https://github.com/jamisonmmartins/numero-secreto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamisonmmartins&repo=acender-apagar-lampada&show_owner=true)](https://github.com/jamisonmmartins/acender-apagar-lampada)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamisonmmartins&repo=space-cream&show_owner=true)](https://github.com/jamisonmmartins/space-cream)
