@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub followers](https://img.shields.io/github/followers/jamisonmmartins?label=Seguir&style=social)](https://github.com/jamisonmmartins)
+[![GitHub followers](https://img.shields.io/github/followers/jamison.com.br?label=Seguir&style=social)](https://github.com/jamison.com.br)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:eu@jamison.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamisonmmartins/)
 <!--
@@ -45,6 +45,7 @@ Estou sempre aberto a sugestões e recursos adicionais sobre esses tópicos. Se 
 
 ## 🚀 Projetos em Destaque
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamisonmmartins&repo=jamisonmmartins&show_owner=true)](https://github.com/jamisonmmartins/jamisonmmartins)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamisonmmartins&repo=numero-secreto&show_owner=true)](https://github.com/jamisonmmartins/numero-secreto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamisonmmartins&repo=acender-apagar-lampada&show_owner=true)](https://github.com/jamisonmmartins/acender-apagar-lampada)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamisonmmartins&repo=space-cream&show_owner=true)](https://github.com/jamisonmmartins/space-cream)
