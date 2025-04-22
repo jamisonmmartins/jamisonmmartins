@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub followers](https://img.shields.io/github/followers/jamison.com.br?label=Seguir&style=social)](https://github.com/jamison.com.br)
+<!-- [![GitHub followers](https://img.shields.io/github/followers/jamison.com.br?label=Seguir&style=social)](https://github.com/jamison.com.br) -->
+[![GitHub followers](https://img.shields.io/github/followers/jamisonmmartins?label=Seguir&style=social)](https://github.com/jamisonmmartins)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:eu@jamison.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamisonmmartins/)
 <!--
