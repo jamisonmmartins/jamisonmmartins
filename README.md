@@ -38,16 +38,11 @@ Sou um desenvolvedor em formação contínua, com experiência em **HTML, CSS e 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Estatísticas
 <!--
+## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamisonmmartins&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamisonmmartins&layout=compact&theme=default)
 -->
-![Jamison's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamisonmmartins&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamisonmmartins&layout=compact&theme=radical)
-
-
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jamisonmmartins)
@@ -55,8 +50,7 @@ Sou um desenvolvedor em formação contínua, com experiência em **HTML, CSS e 
 
 ---
 
-## 📂 Projetos em destaque ![Em construção](https://img.shields.io/badge/Projetos-Em%20construção-yellow)
-
+## 📂 Projetos em destaque   ![Em construção](https://img.shields.io/badge/Projetos-Em%20construção-yellow)
 🚧 Esta seção está em construção 🚧  
 Em breve estarei adicionando meus projetos principais, incluindo **TaskBoard** e **Optimustech**.
 <!--
