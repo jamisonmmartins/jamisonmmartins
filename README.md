@@ -39,9 +39,12 @@ Sou um desenvolvedor em formação contínua, com experiência em **HTML, CSS e 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 Estatísticas
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamisonmmartins&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamisonmmartins&layout=compact&theme=default)
-
+-->
+![GitHub Stats](https://github-readme-stats-git-masterrstaa.vercel.app/api?username=jamisonmmartins&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=jamisonmmartins&layout=compact&theme=default)
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jamisonmmartins)
