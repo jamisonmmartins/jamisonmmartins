@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 # 👋 Olá, eu sou Jamison  [![Follow](https://img.shields.io/badge/Seguir-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/jamisonmmartins)
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor em formação contínua, com experiência em **HTML, CSS e JavaScript**, e atualmente **explorando React**.  
-Este espaço é dedicado a compartilhar meu avanço técnico e documentar minha evolução na área.  
-Acredito que cada projeto é uma oportunidade de aprendizado e de criar soluções úteis para outras pessoas.
+Sou um desenvolvedor em formação contínua, com experiência em **HTML, CSS e JavaScript**, e atualmente **explorando React**. Este espaço é dedicado a compartilhar meu avanço técnico e documentar minha evolução na área. Acredito que cada projeto é uma oportunidade de aprendizado e de criar soluções úteis para outras pessoas.
 
 ## 🛠️ Tecnologias e Ferramentas
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
